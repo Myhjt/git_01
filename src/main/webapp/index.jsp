@@ -6,13 +6,7 @@
     <script src="js/jquery-3.4.1.min.js"></script>
   </head>
     <script>
-      $(function(){
-        alert("HelloWorld");
-        $.ajax({
-          method:get,
-          type:json
-        })
-      })
+      alert("HelloWorld")
     </script>
   <body>
 
